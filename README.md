@@ -23,43 +23,6 @@
 
 个人信息、密码修改
 
-项目效果截图
-
-![contents](./picture/picture1.png)
-
-![contents](./picture/picture2.png)
-
-![contents](./picture/picture12.png)
-
-![contents](./picture/picture13.png)
-
-![contents](./picture/picture14.png)
-
-![contents](./picture/picture3.png)
-
-![contents](./picture/picture17.png)
-
-![contents](./picture/picture16.png)
-
-![contents](./picture/picture4.png)
-
-![contents](./picture/picture5.png)
-
-![contents](./picture/picture6.png)
-
-![contents](./picture/picture7.png)
-
-![contents](./picture/picture8.png)
-
-![contents](./picture/picture9.png)
-
-![contents](./picture/picture10.png)
-
-![contents](./picture/picture11.png)
-
-![contents](./picture/picture12.png)
-
-
 ### 基础环境 :IDEA，maven3.6+，JDK 1.8， Mybatis 3.5， Mysql 5.8
 
 ### 源码+数据库脚本 
