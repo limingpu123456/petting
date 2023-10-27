@@ -27,8 +27,8 @@
 
 ### 源码+数据库脚本 
 
-##### pet-trading文件夹：后端代码
+##### petting-backend文件夹：后端代码
 
-##### pettrading文件夹： 前端代码
+##### petting-frontend文件夹： 前端代码
 
-##### pettrading.sql ：数据库文件
+##### pet.sql ：数据库文件
