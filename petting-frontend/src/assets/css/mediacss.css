@@ -1,0 +1,47 @@
+.container {
+  width: 100%;
+  margin: auto;
+  /* background-color: pink; */
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+  .container {
+    max-width: 767px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 959px) {
+  .container {
+    max-width: 959px;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1199px) {
+  .container {
+    max-width: 1199px;
+  }
+}
+
+@media (min-width:1200px) {
+  .container {
+    max-width: 1200px;
+  }
+}
+
+/* @media (min-width: 576px) {
+  .window {
+    min-height: 500px;
+  }
+}
+
+@media (min-width: 992px) {
+  .window {
+    min-height: 630px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .window {
+    min-height: 740px;
+  }
+} */
