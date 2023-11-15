@@ -1,0 +1,43 @@
+/* @import "./normalize.css"; */
+@import "./scroll.css";
+
+/*:root -> 获取根元素html*/
+/* :root {
+  --color-text: #666;
+  --color-high-text: #ff5777;
+  --color-tint: #ff8198;
+  --color-background: #fff;
+  --font-size: 14px;
+  --line-height: 1.5;
+} */
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  user-select: none; /* 禁止用户鼠标在页面上选中文字/图片等 */
+  -webkit-tap-highlight-color: transparent; /* webkit是苹果浏览器引擎，tap点击，highlight背景高亮，color颜色，颜色用数值调节 */
+  font-size: 62.5%;
+  background: rgb(242, 242, 242);
+}
+
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+input,
+button {
+  border: 0;
+  outline: none;
+}
+
+ul li {
+  list-style: none;
+}

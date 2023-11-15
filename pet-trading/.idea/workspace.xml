@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="982d3eb6-8683-4384-bdd4-07f4834a48e6" name="Default Changelist" comment="修改静态资源配置" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\setting2.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2AHRUlfDsPZ8xPhPNOePom5meBs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/85180/Desktop/毕设/pet-trading&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\85180\Desktop\pettrading-main1\pet-trading\src\main\resources\mapper" />
+      <recent name="C:\Users\85180\Desktop\pettrading-main1\pet-trading\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PetTradingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pet-trading" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.PetTradingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="982d3eb6-8683-4384-bdd4-07f4834a48e6" name="Default Changelist" comment="" />
+      <created>1654664541728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654664541728</updated>
+      <workItem from="1654664544609" duration="4175000" />
+      <workItem from="1654671092635" duration="528000" />
+      <workItem from="1655084190696" duration="2655000" />
+      <workItem from="1655109816190" duration="798000" />
+      <workItem from="1681806357928" duration="591000" />
+      <workItem from="1689569186365" duration="326000" />
+      <workItem from="1689570527881" duration="53000" />
+      <workItem from="1689578675140" duration="4057000" />
+      <workItem from="1689648117954" duration="5386000" />
+      <workItem from="1689750652472" duration="404000" />
+      <workItem from="1689820871571" duration="5257000" />
+      <workItem from="1689840897690" duration="57000" />
+      <workItem from="1689841017568" duration="4702000" />
+      <workItem from="1689857671928" duration="5004000" />
+      <workItem from="1689903963628" duration="3400000" />
+      <workItem from="1690187179520" duration="1792000" />
+      <workItem from="1690189621538" duration="506000" />
+      <workItem from="1690210921007" duration="48000" />
+      <workItem from="1690211030250" duration="2883000" />
+      <workItem from="1690214141330" duration="1285000" />
+      <workItem from="1690256758919" duration="108000" />
+      <workItem from="1690257514014" duration="843000" />
+      <workItem from="1690353329023" duration="30000" />
+      <workItem from="1690353376505" duration="86000" />
+      <workItem from="1690630549343" duration="205000" />
+      <workItem from="1690632009967" duration="9000" />
+      <workItem from="1690632104911" duration="84000" />
+      <workItem from="1690632644562" duration="245000" />
+      <workItem from="1690633246306" duration="229000" />
+      <workItem from="1690633487428" duration="3257000" />
+      <workItem from="1690706445967" duration="29000" />
+      <workItem from="1690706564425" duration="227000" />
+      <workItem from="1690706823590" duration="765000" />
+      <workItem from="1690707746893" duration="60000" />
+      <workItem from="1690710198567" duration="40000" />
+      <workItem from="1690767468896" duration="3000" />
+      <workItem from="1690776810662" duration="146000" />
+      <workItem from="1692276408872" duration="3357000" />
+      <workItem from="1692379322979" duration="4000" />
+      <workItem from="1692379793199" duration="57000" />
+      <workItem from="1692438288724" duration="155000" />
+      <workItem from="1696134899946" duration="19000" />
+      <workItem from="1696152289810" duration="82000" />
+      <workItem from="1697272692033" duration="107000" />
+      <workItem from="1697469706855" duration="45000" />
+      <workItem from="1697470126059" duration="11000" />
+      <workItem from="1697473192411" duration="122000" />
+      <workItem from="1697473391179" duration="37000" />
+      <workItem from="1697473443144" duration="376000" />
+      <workItem from="1697887765779" duration="1155000" />
+      <workItem from="1697960488483" duration="238000" />
+      <workItem from="1697963446394" duration="510000" />
+      <workItem from="1697964846151" duration="711000" />
+      <workItem from="1697965927963" duration="609000" />
+      <workItem from="1699970460791" duration="4173000" />
+      <workItem from="1699974818700" duration="3112000" />
+      <workItem from="1700056797914" duration="248000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改静态资源配置">
+      <created>1655084872968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655084872968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-websocket" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="修改静态资源配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改静态资源配置" />
+  </component>
+</project>
