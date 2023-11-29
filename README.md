@@ -1,4 +1,4 @@
-基于springboot+vue的宠物交易/领养系统 springboot+mybatis+mysql+vue
+1基于springboot+vue的宠物交易/领养系统 springboot+mybatis+mysql+vue
 
 一、功能介绍
 包括管理员、普通用户两种角色，外加游客(未登录情况)
